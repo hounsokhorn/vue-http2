@@ -1,4 +1,4 @@
-# An easy way to validate forms using back end logic
+# An easy way for http request with error validation management.
 
 [![Latest Version on NPM](https://img.shields.io/npm/v/form-backend-validation.svg?style=flat-square)](https://npmjs.com/package/form-backend-validation)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
@@ -16,5 +16,5 @@ The code of this package is based on the [Object-Oriented Forms lesson](https://
 You can install the package via yarn (or npm):
 
 ```bash
-yarn add vue-http2
+yarn add @hsokhorn/vue-http2
 ```

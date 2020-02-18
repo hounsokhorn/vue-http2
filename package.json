@@ -1,5 +1,5 @@
 {
-  "name": "@sokhornhoun/vue-http2",
+  "name": "@hsokhorn/vue-http2",
   "version": "0.0.1",
   "description": "An easy way for http request with error validation management.",
   "main": "dist/index.js",
